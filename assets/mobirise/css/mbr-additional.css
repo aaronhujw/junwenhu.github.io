@@ -1036,7 +1036,7 @@ a {
   background-color: #ffffff;
 }
 .cid-saV4ZYoRoj .content-wrapper {
-  background: #fafafa;
+  background: #232323;
 }
 @media (max-width: 991px) {
   .cid-saV4ZYoRoj .content-wrapper .image-wrapper {
@@ -1065,8 +1065,16 @@ a {
   width: 100%;
   object-fit: cover;
 }
+.cid-saV4ZYoRoj .mbr-text,
+.cid-saV4ZYoRoj .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-saV4ZYoRoj .card-title {
+  text-align: left;
+  color: #ffffff;
+}
 .cid-saVAMu7Leo {
-  padding-top: 1rem;
+  padding-top: 4rem;
   padding-bottom: 1rem;
   background-color: #ffffff;
 }
